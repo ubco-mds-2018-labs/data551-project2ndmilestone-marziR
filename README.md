@@ -1,5 +1,5 @@
-# data551-project2ndmilestone-marziR
-data551-project2ndmilestone-marziR created by GitHub Classroom
+# data551-project2ndmilestone-marziR - file description:
+
 
 ______________________________________________________________________________________________
 
