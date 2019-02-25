@@ -3,6 +3,13 @@
 
 ______________________________________________________________________________________________
 
+# pdf files: 
+Four proposed stories
+implemented plots with few lines for description
+
+# JPG files:
+Other designs to answer similar questions to four questions
+
 # Project_v2_ipynb  :  
   python file , Reads the input file(INI) generates nodepositions_v4
 
@@ -19,5 +26,4 @@ ________________________________________________________________________________
 raw input data
 
 
-# pdf files: 
-plots with few lines for description
+
